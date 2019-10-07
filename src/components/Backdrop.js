@@ -1,7 +1,6 @@
 import React from "react";
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
-import "./Backdrop.css";
 export const Backdrop = props => (
   <div
     css={css`
